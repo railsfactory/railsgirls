@@ -26,12 +26,10 @@ This is present in "solutions" folder
 - [Ruby Best Practices - Book](http://rubybestpractices.com/)
 - [Hackety Hack!](http://hackety.com/)
 - [Code School: Rails for Zombies](http://railsforzombies.org/)
-- [Devise Authentication in Rails 3 –](http://blazingcloud.net/2011/01/08/devise-authentication-in-rails-3/)
 - [The Well-Grounded Rubyist (9781933988658): David A. Black: Books](http://www.amazon.com/Well-Grounded-Rubyist-David-Black/dp/1933988657)
 - [Ruby on Rails Screencasts](http://railscasts.com/)
 - [Ruby on Rails Guides](http://edgeguides.rubyonrails.org/)
 - [Tryruby.org](http://tryruby.org/levels/1/challenges/0)
-- [Ruby on Rails Tutorial: Learn Rails by Example | Ruby on Rails 3 Tutorial book and screencasts](http://ruby.railstutorial.org/)
 - [Ruby Quiz](http://rubyquiz.com/)
 - [RubyMonk](http://rubymonk.com/)
 - [Learn Ruby with the EdgeCase Ruby Koans](http://rubykoans.com/)
@@ -40,7 +38,7 @@ This is present in "solutions" folder
 - [The Odin Project: Learn Web Development for Free using Ruby on Rails](http://www.theodinproject.com)
 - [RailsGuide](https://guides.rubyonrails.org/)
 
-# Need coding buddy
+# Need coding buddy?
 Join Codum, a match-making platform for aspiring Coders to take on the coding-journey together with a Buddy.
 - [Codum](https://www.codum.cc/)
 # You can also connect to mentors on LinkedIn
