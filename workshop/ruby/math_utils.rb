@@ -5,8 +5,9 @@ module MathUtils
 end
 
 class MyMath
+  # MathUtils method will be used as
+  # class method
   extend MathUtils
 end
 
-result = MyClass.calculate_sine(Math::PI/2)
-puts result
+puts MyClass.calculate_sine(Math::PI/2)

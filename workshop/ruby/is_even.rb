@@ -8,4 +8,4 @@ def is_even?(num)
 end
 
 num = gets.chomp.to_i
-p "Enter num is #{num}: Even: #{is_even?(num)}"
+puts "Enter num is #{num}: Even: #{is_even?(num)}"

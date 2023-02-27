@@ -5,6 +5,8 @@ module Greetings
 end
 
 class Person
+  # Greetings methods will 
+  # be consider as instance method
   include Greetings
 end
 

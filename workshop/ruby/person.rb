@@ -1,29 +1,24 @@
 class Person
   @@count = 0
-  
-  attr_accessor :name
-  
+
   def initialize(name)
     @name = name
     @@count += 1
   end
   
-  def self.count
+  def what_kind_of_method_i_am
     @@count
   end
   
-  def greeting
+  def what_kind_of_method_i_am
     puts "Hello, my name is #{@name}"
   end
-  
-  def say_hello_to(other_person)
-    puts "Hello, #{other_person.name}! My name is #{@name}"
-  end
-end
-person1 = Person.new("Selvi")
-person1.greeting
 
-person2 = Person.new("Nandini")
-person2.say_hello_to(person1)
+end
+selvi = Person.new("Selvi")
+selvi.greeting
+
+nandini = Person.new("Nandini")
+nandini.greeting
 
 puts Person.count

@@ -5,12 +5,14 @@ class Vehicle
 end
 
 class Car < Vehicle
+  # Method Overriding
   def move
     puts "Driving car"
   end
 end
 
 class Boat < Vehicle
+  # Method Overriding
   def move
     puts "Sailing boat"
   end
