@@ -9,12 +9,15 @@ This repository contains all the information related to RailsGirls Bangalore, in
 
 # Workshop materials
 This is present in "workshop" folder
+# Installation Guide
+Installation steps for Ruby is present in "RubyInstallation.md"
+Installation steps for Rails is present in "RailsInstallation.md"
 
-# Problem Statement used in Workshop
-This is present in "problem_statment" folder
+<!-- # Problem Statement used in Workshop
+This is present in "problem_statment" folder -->
 
-# Solution for Problem Statement
-This is present in "solutions" folder
+<!-- # Solution for Problem Statement
+This is present in "solutions" folder -->
 # Links to resources for learning Ruby on Rails
 - [RailsGirl](http://railsgirls.com/materials.html)
 - [Codecademy - Ruby](http://www.codecademy.com/tracks/ruby)
