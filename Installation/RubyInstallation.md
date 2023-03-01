@@ -11,5 +11,10 @@
 - brew install ruby
 - Check ruby -v
 
+# Install editor Sublime or VsCode
+- Download Sublime: https://www.sublimetext.com/3
+- Download VsCode: https://code.visualstudio.com/download
+
 For more details on installation refer: 
 https://www.ruby-lang.org/en/documentation/installation/ 
+
