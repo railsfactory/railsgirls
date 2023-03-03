@@ -1,6 +1,6 @@
 module MathUtils
-  def self.calculate_sine(x)
-    sin(x)
+  def calculate_sine(x)
+    Math.sin(x)
   end
 end
 
@@ -10,4 +10,4 @@ class MyMath
   extend MathUtils
 end
 
-puts MyClass.calculate_sine(Math::PI/2)
+puts MyMath.calculate_sine(Math::PI/2)

@@ -5,7 +5,7 @@ class Car
   def initialize(make, color)
     # Instance variable start with @variable_name
     @make = make
-    @color
+    @color = color
   end
 
   # Method defination
