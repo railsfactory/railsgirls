@@ -1,0 +1,6 @@
+print "Welcome "
+print "to "
+print "Rails "
+print "Girls "
+print "event "
+puts ""
