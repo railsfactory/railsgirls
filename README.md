@@ -45,4 +45,23 @@ This is present in "solutions" folder -->
 Join Codum, a match-making platform for aspiring Coders to take on the coding-journey together with a Buddy.
 - [Codum](https://www.codum.cc/)
 # You can also connect to mentors on LinkedIn
+- [Shloka Shah] (https://www.linkedin.com/in/shloka-shah-98625015a)
+- [Shravani Roy] (https://www.linkedin.com/in/shravani-roy-12r842696)
+- [Maria Alexander] (https://www.linkedin.com/in/mariamjalexander)
+- [Mohammed Anees k] (https://www.linkedin.com/in/aneesuppml)
+- [Bhimsen Sahoo] (https://www.linkedin.com/in/bhimsen-sahoo/)
+- [Amulya Tanksale] (https://www.linkedin.com/in/amulya-tanksale/)
+- [Ayush Billore] ( https://www.linkedin.com/in/ayushbillore)
+- [Vinay Dangwal] (https://www.linkedin.com/in/vinaydangwal)
+- [Saravana Moorthy] (https://www.linkedin.com/in/saravana-moorthy-g/)
+- [GOWTHAMI P] (https://www.linkedin.com/in/gowthami-p-0786585a/)
+- [Huzefa Biyawarwala] (https://www.linkedin.com/in/huzefabiyawarwala/)
+- [Smriti Garg] (https://www.linkedin.com/in/smriti-garg-se/)
+- [Vikas Kumar] (https://www.linkedin.com/in/vikas-kumar-aa403119/)
+- [Hrithik Diwakar] (https://www.linkedin.com/in/hrithik-diwakar-899243168/)
+- [Magesh S] (https://www.linkedin.com/in/imagesh/)
+- [Subhasish Karmakar] (https://www.linkedin.com/in/mesubhasishkarmakar/)
+- [Chaitali Khangar] (https://www.linkedin.com/in/chaitali-khangar/)
 
+# Join our Discord group for Ruby on Rails assistance, where both mentors and fellow Rails enthusiasts can offer guidance.
+Rails Discord Channel: https://discord.gg/vRzx4z2K
