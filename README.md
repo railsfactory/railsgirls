@@ -61,6 +61,7 @@ Join Codum, a match-making platform for aspiring Coders to take on the coding-jo
 - [Hrithik Diwakar] (https://www.linkedin.com/in/hrithik-diwakar-899243168/)
 - [Magesh S] (https://www.linkedin.com/in/imagesh/)
 - [Subhasish Karmakar] (https://www.linkedin.com/in/mesubhasishkarmakar/)
+- [Vidya Desikan] (https://www.linkedin.com/in/vidhya-desikan-0a936354/)
 - [Chaitali Khangar] (https://www.linkedin.com/in/chaitali-khangar/)
 
 # Join our Discord group for Ruby on Rails assistance, where both mentors and fellow Rails enthusiasts can offer guidance.
